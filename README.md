@@ -1,9 +1,9 @@
 # Welcome to the Altis survival mission!
 
-##What is Altis survival
+## What is Altis survival
 
-##Idea list
+## Idea list
 
-##To do list
+## To do list
 
-##Finished
+## Finished
